@@ -1,0 +1,74 @@
+[
+  {
+    "productId": "PURA100",
+    "productName": "Pure Soft Detergent - 100ml",
+    "stdCost": "$ 1.50",
+    "stdPrice": "$ 3.00"
+  },
+  {
+    "productId": "PURA200",
+    "productName": "Pure Soft Detergent - 200ml",
+    "stdCost": "$ 2.00",
+    "stdPrice": "$ 3.99"
+  },
+  {
+    "productId": "PURA250",
+    "productName": "Pure Soft Detergent - 250ml",
+    "stdCost": "$ 2.30",
+    "stdPrice": "$ 4.50"
+  },
+  {
+    "productId": "PURA500",
+    "productName": "Pure Soft Detergent - 500ml",
+    "stdCost": "$ 3.50",
+    "stdPrice": "$ 6.50"
+  },
+  {
+    "productId": "DETA100",
+    "productName": "Detafast Stain Remover - 100ml",
+    "stdCost": "$ 3.00",
+    "stdPrice": "$ 6.00"
+  },
+  {
+    "productId": "DETA200",
+    "productName": "Detafast Stain Remover - 200ml",
+    "stdCost": "$ 3.50",
+    "stdPrice": "$ 6.50"
+  },
+  {
+    "productId": "DETA800",
+    "productName": "Detafast Stain Remover - 800ml",
+    "stdCost": "$ 6.00",
+    "stdPrice": "$ 9.00"
+  },
+  {
+    "productId": "SUPA101",
+    "productName": "Super Soft - Product Sample",
+    "stdCost": "$ 0.30",
+    "stdPrice": "$ -"
+  },
+  {
+    "productId": "SUPA102",
+    "productName": "Super Soft - 250ml",
+    "stdCost": "$ 2.50",
+    "stdPrice": "$ 4.50"
+  },
+  {
+    "productId": "SUPA103",
+    "productName": "Super Soft - 500ml",
+    "stdCost": "$ 3.50",
+    "stdPrice": "$ 6.99"
+  },
+  {
+    "productId": "SUPA104",
+    "productName": "Super Soft - 1 Litre",
+    "stdCost": "$ 5.00",
+    "stdPrice": "$ 9.99"
+  },
+  {
+    "productId": "SUPA105",
+    "productName": "Super Soft Bulk - 2 Litres",
+    "stdCost": "$ 8.00",
+    "stdPrice": "$ 14.50"
+  }
+]

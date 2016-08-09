@@ -1,0 +1,738 @@
+[
+  {
+    "Bangladesh": "Bhutan",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Brunei",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Cambodia",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "China",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "India",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Indonesia",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Japan",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Kazakhstan",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "North Korea",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "South Korea",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Kyrgyzstan",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Laos",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Malaysia",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Maldives",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Mongolia",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Myanmar",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Nepal",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Philippines",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Singapore",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Sri Lanka",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Taiwan",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Tajikistan",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Thailand",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Turkmenistan",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Uzbekistan",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Vietnam",
+    "Asia": "Asia"
+  },
+  {
+    "Bangladesh": "Afghanistan",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Algeria",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Azerbaijan",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Bahrain",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Egypt",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Iran",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Iraq",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Israel",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Jordan",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Kuwait",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Lebanon",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Libya",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Morocco",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Oman",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Pakistan",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Qatar",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Saudi Arabia",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Somalia",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Syria",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Tunisia",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Turkey",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "United Arab Emirates",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Yemen",
+    "Asia": "Middle East and North Africa"
+  },
+  {
+    "Bangladesh": "Albania",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Andorra",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Armenia",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Austria",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Belarus",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Belgium",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Bosnia and Herzegovina",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Bulgaria",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Croatia",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Cyprus",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Czech Republic",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Denmark",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Estonia",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Finland",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "France",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Georgia",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Germany",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Greece",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Hungary",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Iceland",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Ireland",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Italy",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Kosovo",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Latvia",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Liechtenstein",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Lithuania",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Luxembourg",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Macedonia",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Malta",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Moldova",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Monaco",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Montenegro",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Netherlands",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Norway",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Poland",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Portugal",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Romania",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Russia",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "San Marino",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Serbia",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Slovakia",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Slovenia",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Spain",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Sweden",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Switzerland",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Ukraine",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "United Kingdom",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Vatican City",
+    "Asia": "Europe"
+  },
+  {
+    "Bangladesh": "Canada",
+    "Asia": "North America"
+  },
+  {
+    "Bangladesh": "Greenland",
+    "Asia": "North America"
+  },
+  {
+    "Bangladesh": "Mexico",
+    "Asia": "North America"
+  },
+  {
+    "Bangladesh": "United States of America",
+    "Asia": "North America"
+  },
+  {
+    "Bangladesh": "Antigua and Barbuda",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "The Bahamas",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Barbados",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Belize",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Costa Rica",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Cuba",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Dominica",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Dominican Republic",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "El Salvador",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Grenada",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Guatemala",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Haiti",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Honduras",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Jamaica",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Nicaragua",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Panama",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Saint Kitts and Nevis",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Saint Lucia",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Saint Vincent and the Grenadines",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Trinidad and Tobago",
+    "Asia": "Central America and the Caribbean"
+  },
+  {
+    "Bangladesh": "Angola",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Benin",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Botswana",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Burkina Faso",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Burundi",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Cameroon",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Cape Verde",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Central African Republic",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Chad",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Comoros",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Republic of the Congo",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Democratic Republic of the Congo",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Cote d'Ivoire",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Djibouti",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Equatorial Guinea",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Eritrea",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Ethiopia",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Gabon",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "The Gambia",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Ghana",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Guinea",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Guinea-Bissau",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Kenya",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Lesotho",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Liberia",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Madagascar",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Malawi",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Mali",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Mauritania",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Mauritius",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Mozambique",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Namibia",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Niger",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Nigeria",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Rwanda",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Sao Tome and Principe",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Senegal",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Seychelles",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Sierra Leone",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "South Africa",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "South Sudan",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Sudan",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Swaziland",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Tanzania",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Togo",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Uganda",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Zambia",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Zimbabwe",
+    "Asia": "Sub-Saharan Africa"
+  },
+  {
+    "Bangladesh": "Australia",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "East Timor",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "Fiji",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "Kiribati",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "Marshall Islands",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "Federated States of Micronesia",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "Nauru",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "New Zealand",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "Palau",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "Papua New Guinea",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "Samoa",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "Solomon Islands",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "Tonga",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "Tuvalu",
+    "Asia": "Australia and Oceania"
+  },
+  {
+    "Bangladesh": "Vanuatu",
+    "Asia": "Australia and Oceania"
+  }
+]
