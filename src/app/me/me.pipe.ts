@@ -5,14 +5,22 @@ import { Pipe } from '@angular/core';
 })
 
 export class SearchPipe {
-	transform(value: any[], term) {
-		if (term.length > 0) {
-			return value.filter(value => {
-				return value.custName.toLowerCase().indexOf(term.toLowerCase()) !== -1 || value.custCountry.toLowerCase().indexOf(term.toLowerCase()) !== -1;
-			});
-		} else {
-			return value;
-		}
+	transform(arr: any[], terms) {
+		terms.map(term => {
+			if (term.value) {
+				arr = arr.filter(item => {
+					// If number
+					if( +term.value == term.value ) {
+						return (item[term.field] + '').indexOf(term.value) !== -1;
+					}
+					// If string
+					else if(typeof term.value === 'string') {
+						return item[term.field].toLowerCase().indexOf(term.value.toLowerCase()) !== -1;
+					}
+				});
+			}
+		});
 
+		return arr;
 	}
 }

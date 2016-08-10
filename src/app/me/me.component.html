@@ -1,4 +1,3 @@
-<input type="text" [(ngModel)]="searchTerm">
 <table class="table table-striped ">
   <thead class="table-inverse">
     <tr>
@@ -12,7 +11,23 @@
     </tr>
   </thead>
   <tbody>
-    <tr *ngFor="let customer of customers|search:searchTerm">
+    <tr>
+      <td><input type="text" [(ngModel)]="searchId"></td>
+      <td><input type="text" [(ngModel)]="searchName"></td>
+      <td></td>
+      <td><input type="text" [(ngModel)]="searchProductSold"></td>
+      <td></td>
+      <td><input type="text" [(ngModel)]="searchUnitsSold"></td>
+    </tr>
+
+    <tr *ngFor="let customer of customers
+      |search: [
+      {field: 'custId', value :searchId},
+      {field: 'productSold', value :searchProductSold},
+      {field: 'unitsSold', value :searchUnitsSold},
+      {field: 'custName', value :searchName}
+      ]">
+      
       <th scope="row">{{customer.custId}}</th>
       <td>{{customer.custName}}</td>
       <td>{{customer.custCountry}}</td>
