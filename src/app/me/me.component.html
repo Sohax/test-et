@@ -14,10 +14,11 @@
     <tr>
       <td><input type="text" [(ngModel)]="searchId"></td>
       <td><input type="text" [(ngModel)]="searchName"></td>
-      <td></td>
+      <td><input type="text" [(ngModel)]="searchCountry"></td>
       <td><input type="text" [(ngModel)]="searchProductSold"></td>
-      <td></td>
+      <td><input type="text" [(ngModel)]="searchSalesChannel"></td>
       <td><input type="text" [(ngModel)]="searchUnitsSold"></td>
+      <td><input type="text" [(ngModel)]="searchDateSold"></td>
     </tr>
 
     <tr *ngFor="let customer of customers
@@ -25,7 +26,10 @@
       {field: 'custId', value :searchId},
       {field: 'productSold', value :searchProductSold},
       {field: 'unitsSold', value :searchUnitsSold},
-      {field: 'custName', value :searchName}
+      {field: 'custName', value :searchName},
+      {field: 'custCountry', value :searchCountry},
+      {field: 'salesChannel', value :searchSalesChannel},
+      {field: 'dateSold', value :searchDateSold}
       ]">
       
       <th scope="row">{{customer.custId}}</th>
